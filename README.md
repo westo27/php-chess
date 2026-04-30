@@ -1,5 +1,6 @@
 
-# Granular Energy Take-Home Assignment
+# PHP Chess
+> Originally written as a take-home assignment.
 
 ## Requirements
 - PHP 8.4
